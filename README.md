@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post Installation Setup (Part 2)</h1>
+<h1>osTicket - Post Installation Setup </h1>
 <p>After installation, let's make sure it is configured properly to manage roles, departments, teams, tickets, agents, users, SLAs (Service Level Agreements), and help topics. Let's get started with easy-to-follow steps.</p>
 
 <h2>Environments and Technologies Used</h2>
@@ -75,4 +75,3 @@ By following these straightforward steps, you've successfully configured your po
 
 -----
 
-# [Next: osTicket - Ticket Lifecycle: Intake Through Resolution (Part 3)](https://github.com/anumkhanit/ticket-lifecycle)
